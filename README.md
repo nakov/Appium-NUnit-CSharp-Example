@@ -7,7 +7,7 @@ These are the target apps for testing:
   - Windows forms sample app: https://github.com/nakov/WindowsFormsApp-Summator
   - Android sample app: https://github.com/nakov/AndroidApp-Summator
   
-## Screenshots]
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/1689586/106069349-07e64c80-610b-11eb-8970-3415ec320a83.png)
 
